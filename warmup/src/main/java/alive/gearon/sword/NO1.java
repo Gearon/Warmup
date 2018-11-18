@@ -29,10 +29,4 @@ public class NO1 {
     	}
         return false;
     }
-    
-    public static void main(String []args){
-    	NO1 obj = new NO1();
-    	int array[][] = {{1,2,3},{3,4,5}};
-    	System.out.println(array[0].length);
-    }
 }
