@@ -22,7 +22,7 @@ public class NO3 {
     	return another;
     }
     
-   class ListNode {
+   public class ListNode {
 	   int val;
 	   ListNode next = null;
    
